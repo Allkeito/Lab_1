@@ -1,0 +1,10 @@
+C:\Users\Eritick\source\repos\Lab_1_1\Lab_1_1\bin\Debug\Lab_1_1.exe.config
+C:\Users\Eritick\source\repos\Lab_1_1\Lab_1_1\bin\Debug\Lab_1_1.exe
+C:\Users\Eritick\source\repos\Lab_1_1\Lab_1_1\bin\Debug\Lab_1_1.pdb
+C:\Users\Eritick\source\repos\Lab_1_1\Lab_1_1\obj\Debug\Lab_1_1.csproj.AssemblyReference.cache
+C:\Users\Eritick\source\repos\Lab_1_1\Lab_1_1\obj\Debug\Lab_1_1.Form1.resources
+C:\Users\Eritick\source\repos\Lab_1_1\Lab_1_1\obj\Debug\Lab_1_1.Properties.Resources.resources
+C:\Users\Eritick\source\repos\Lab_1_1\Lab_1_1\obj\Debug\Lab_1_1.csproj.GenerateResource.cache
+C:\Users\Eritick\source\repos\Lab_1_1\Lab_1_1\obj\Debug\Lab_1_1.csproj.CoreCompileInputs.cache
+C:\Users\Eritick\source\repos\Lab_1_1\Lab_1_1\obj\Debug\Lab_1_1.exe
+C:\Users\Eritick\source\repos\Lab_1_1\Lab_1_1\obj\Debug\Lab_1_1.pdb
