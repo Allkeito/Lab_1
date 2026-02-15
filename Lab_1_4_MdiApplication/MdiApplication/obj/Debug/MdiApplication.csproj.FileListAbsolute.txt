@@ -1,0 +1,12 @@
+C:\Users\Eritick\source\repos\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe.config
+C:\Users\Eritick\source\repos\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe
+C:\Users\Eritick\source\repos\MdiApplication\MdiApplication\bin\Debug\MdiApplication.pdb
+C:\Users\Eritick\source\repos\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.AssemblyReference.cache
+C:\Users\Eritick\source\repos\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ChildForm.resources
+C:\Users\Eritick\source\repos\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ParentForm.resources
+C:\Users\Eritick\source\repos\MdiApplication\MdiApplication\obj\Debug\MdiApplication.Properties.Resources.resources
+C:\Users\Eritick\source\repos\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.GenerateResource.cache
+C:\Users\Eritick\source\repos\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.CoreCompileInputs.cache
+C:\Users\Eritick\source\repos\MdiApplication\MdiApplication\obj\Debug\MdiApplication.exe
+C:\Users\Eritick\source\repos\MdiApplication\MdiApplication\obj\Debug\MdiApplication.pdb
+C:\Users\Eritick\source\repos\MdiApplication\MdiApplication\obj\Debug\MdiApplication.exe.config
